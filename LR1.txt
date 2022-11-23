@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Morning
 =======
 Morning Viktor
@@ -7,3 +8,6 @@ Morning Viktor
 =======
 Morning Ivan
 >>>>>>> origin/Ivan
+=======
+Morning Pavel
+>>>>>>> origin/Pavel
